@@ -1,4 +1,6 @@
 # hello-world
 First Repository
-Hi friends 
+
+Hi friends!
 Nice to meet you all (Codes bring us all together!).
+Bye
